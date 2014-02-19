@@ -4,61 +4,61 @@ translate german strings:
 
     # game/preferences.rpy:58
     old "Launcher Preferences"
-    new ""
+    new "Launcher Einstellungen"
 
     # game/preferences.rpy:79
     old "Projects Directory:"
-    new ""
+    new "Projektordner:"
 
     # game/preferences.rpy:86
     old "[persistent.projects_directory!q]"
-    new ""
+    new "[persistent.projects_directory!q]"
 
     # game/preferences.rpy:88
     old "Not Set"
-    new ""
+    new "Nicht gesetzt"
 
     # game/preferences.rpy:102
     old "Text Editor:"
-    new ""
+    new "Texteditor:"
 
     # game/preferences.rpy:124
     old "Update Channel:"
-    new ""
+    new "Update Channel:"
 
     # game/preferences.rpy:144
     old "Navigation Options:"
-    new ""
+    new "Navigations-Optionen:"
 
     # game/preferences.rpy:148
     old "Include private names"
-    new ""
+    new "Zeige private Namen"
 
     # game/preferences.rpy:149
     old "Include library names"
-    new ""
+    new "Zeige Bibliotheksnamen"
 
     # game/preferences.rpy:159
     old "Launcher Options:"
-    new ""
+    new "Launcheroptionen:"
 
     # game/preferences.rpy:163
     old "Hardware rendering"
-    new ""
+    new "Hardware Rendering"
 
     # game/preferences.rpy:164
     old "Show templates"
-    new ""
+    new "Zeige Templates"
 
     # game/preferences.rpy:167
     old "Console output"
-    new ""
+    new "Konsolenausgaben"
 
     # game/preferences.rpy:188
     old "Open launcher project"
-    new ""
+    new "Öffne das Launcher-Projekt"
 
     # game/preferences.rpy:202
     old "Language:"
-    new ""
+    new "Sprache:"
 

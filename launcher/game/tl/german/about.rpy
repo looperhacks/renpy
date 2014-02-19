@@ -8,5 +8,5 @@ translate german strings:
 
     # game/about.rpy:43
     old "View license"
-    new ""
+    new "Zeige Lizenz"
 

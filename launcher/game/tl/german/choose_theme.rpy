@@ -4,41 +4,41 @@ translate german strings:
 
     # game/choose_theme.rpy:292
     old "Could not change the theme. Perhaps options.rpy was changed too much."
-    new ""
+    new "Konnte Thema nicht ändern. Vermutlich wurde options.rpy zu stark geändert."
 
     # game/choose_theme.rpy:357
     old "Display"
-    new ""
+    new "Anzeige"
 
     # game/choose_theme.rpy:358
     old "Window"
-    new ""
+    new "Fenster"
 
     # game/choose_theme.rpy:359
     old "Fullscreen"
-    new ""
+    new "Vollbild"
 
     # game/choose_theme.rpy:360
     old "Planetarium"
-    new ""
+    new "Planetarium"
 
     # game/choose_theme.rpy:367
     old "Sound Volume"
-    new ""
+    new "Lautstärke"
 
     # game/choose_theme.rpy:401
     old "Choose Theme"
-    new ""
+    new "Wähle Thema"
 
     # game/choose_theme.rpy:414
     old "Theme"
-    new ""
+    new "Thema"
 
     # game/choose_theme.rpy:438
     old "Color Scheme"
-    new ""
+    new "Farbschema"
 
     # game/choose_theme.rpy:469
     old "Continue"
-    new ""
+    new "Weiter"
 

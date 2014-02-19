@@ -4,81 +4,81 @@ translate german strings:
 
     # game/front_page.rpy:116
     old "+ Create New Project"
-    new ""
+    new "+ Erstelle Neues Projekt"
 
     # game/front_page.rpy:144
     old "[p.name!q] (template)"
-    new ""
+    new "[p.name!q] (template)"
 
     # game/front_page.rpy:160
     old "Tutorial"
-    new ""
+    new "Tutorial"
 
     # game/front_page.rpy:161
     old "The Question"
-    new ""
+    new "The Question"
 
     # game/front_page.rpy:177
     old "Active Project"
-    new ""
+    new "Aktives Projekt"
 
     # game/front_page.rpy:185
     old "Open Directory"
-    new ""
+    new "Öffne Ordner"
 
     # game/front_page.rpy:190
     old "game"
-    new ""
+    new "game"
 
     # game/front_page.rpy:191
     old "base"
-    new ""
+    new "base"
 
     # game/front_page.rpy:197
     old "Edit File"
-    new ""
+    new "Bearbeite Datei"
 
     # game/front_page.rpy:205
     old "All script files"
-    new ""
+    new "Alle Scriptdateien"
 
     # game/front_page.rpy:214
     old "Navigate Script"
-    new ""
+    new "TODO"
 
     # game/front_page.rpy:225
     old "Check Script (Lint)"
-    new ""
+    new "Überprüfe Script (Lint)"
 
     # game/front_page.rpy:226
     old "Change Theme"
-    new ""
+    new "Ändere Thema"
 
     # game/front_page.rpy:227
     old "Delete Persistent"
-    new ""
+    new "Lösche persistent"
 
     # game/front_page.rpy:235
     old "Build Distributions"
-    new ""
+    new "Baue Distributionen"
 
     # game/front_page.rpy:237
     old "Android"
-    new ""
+    new "Android"
 
     # game/front_page.rpy:238
     old "Generate Translations"
-    new ""
+    new "Generiere Übersetzungen"
 
     # game/front_page.rpy:239
     old "Extract Dialogue"
-    new ""
+    new "Extrahiere Dialog"
 
     # game/front_page.rpy:255
     old "Checking script for potential problems..."
-    new ""
+    new "Überprüfe Script auf potentielle Probleme ..."
 
     # game/front_page.rpy:270
     old "Deleting persistent data..."
-    new ""
+    new "Lösche persistente Daten ..."
 

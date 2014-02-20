@@ -64,7 +64,7 @@ translate german strings:
 
     # game/navigation.rpy:249
     old "No TODO comments found.\n\nTo create one, include \"# TODO\" in your script."
-    new "Keine TODO-Kommentare gefunden.\n\nUn eines zu erstelle, schreibe \"# TODO\" in dein Script."
+    new "Keine TODO-Kommentare gefunden.\n\nUm eines zu erstellen, schreibe \"# TODO\" in dein Script."
 
     # game/navigation.rpy:256
     old "The list of names is empty."

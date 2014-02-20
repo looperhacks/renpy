@@ -28,7 +28,7 @@ translate german strings:
 
     # game/distribute.rpy:831
     old "Writing the [variant] [format] package."
-    new "Schreibe das [variant] [format] Paket."
+    new "Schreibe das Paket [variant] [format]."
 
     # game/distribute.rpy:844
     old "Making the [variant] update zsync file."

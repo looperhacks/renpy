@@ -44,7 +44,7 @@ translate german strings:
 
     # game/front_page.rpy:214
     old "Navigate Script"
-    new "TODO"
+    new "Navigate Script"
 
     # game/front_page.rpy:225
     old "Check Script (Lint)"

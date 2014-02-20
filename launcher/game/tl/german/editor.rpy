@@ -8,7 +8,7 @@ translate german strings:
 
     # game/editor.rpy:139
     old "{b}Recommended.{/b} A beta editor with an easy to use interface and features that aid in development, such as spell-checking. Editra currently lacks the IME support required for Chinese, Japanese, and Korean text input. On Linux, Editra requires wxPython."
-    new "{b}Recommended.{/b} A beta editor with an easy to use interface and features that aid in development, such as spell-checking. Editra currently lacks the IME support required for Chinese, Japanese, and Korean text input. Editra benötigt auf Linux wxPython."
+    new "{b}Empfohlen.{/b} Ein Beta-Editor mit einem einfachem Interface und Features wie Rechtschreibprüfung. Editra hat derzeit noch keine IME-Unterstützung für Chinesisch, Japanisch oder Koreanisch. Editra benötigt auf Linux wxPython."
 
     # game/editor.rpy:155
     old "This may have occured because wxPython is not installed on this system."
